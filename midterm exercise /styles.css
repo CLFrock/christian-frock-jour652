@@ -32,8 +32,8 @@ body {
     align-items: center;
 }
 
-#blockquote {
-    font: 50px strong Georgia, serif;
+blockquote {
+    font: 50px strong Arial, san-serif;
     font-style: italic;
     margin-top: 15px;
     margin-bottom: 15px;
