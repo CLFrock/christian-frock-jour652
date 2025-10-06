@@ -28,6 +28,10 @@ body {
     align-items: center;
 }
 
+.article-container {
+    max-width: 300px
+}
+
 img {
     vertical-align: middle;
     border-style: none;
