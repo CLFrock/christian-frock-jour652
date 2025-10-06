@@ -28,6 +28,15 @@ body {
     align-items: center;
 }
 
+blockquote {
+    font: 24px normal Verdana, sans-serif;
+    font-style: italic;
+    margin: 15px 0 15px 50px; 
+    color: blue;
+    padding-left: 15px;
+    border-left: 4px solid #ccc;
+}
+
 .article-container {
     max-width: 300px
 }
