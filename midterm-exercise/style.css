@@ -25,7 +25,6 @@ h1 {
 body {
     font-family: Georgia, serif;
     font-size: 13px;
-    background: #000a2e;
     overflow: hidden;
     display: flex;
     justify-content: left;
