@@ -31,8 +31,10 @@ body {
 blockquote {
     font: 50px strong Georgia, serif;
     font-style: italic;
-    margin: 15px 0 15px 50px; 
+    margin-top: 15px;
+    margin-bottom: 15px;
     color: blue;
+    margin-left: 50px;
     padding-left: 15px;
     border-left: 4px solid #ccc;
 }
