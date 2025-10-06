@@ -16,7 +16,7 @@ h1 {
 
 #byline {
     font-family: Verdana, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
 }
 
@@ -40,7 +40,7 @@ blockquote {
 }
 
 .article-container {
-    max-width: 900px
+    max-width: 900px;
 }
 
 img {
