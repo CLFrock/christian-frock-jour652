@@ -37,7 +37,7 @@ body {
 }
 
 subhead {
-    font: Georgia, serif;
+    font: 16px strong Georgia, serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -62,8 +62,9 @@ img {
 }
 
 captions {
-    font-size: 12px;
+    font-size: 12px Georgia, serif;
     color: darkgrey;
+    font-style: italic;
     line-height: 1.5;
     margin-top: 0; 
 }
