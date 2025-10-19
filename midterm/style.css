@@ -16,7 +16,7 @@ h1 {
     max-width: 900px;
 }
 
-#byline {
+byline {
     font-family: Georgia, serif;
     font-size: 18px;
     font-style: italic;
