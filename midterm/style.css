@@ -12,7 +12,7 @@ h1 {
 
 byline {
     font: 18px strong Georgia, serif;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
 }
@@ -61,10 +61,7 @@ img {
     border-style: none;
 }
 
-#captions {
+captions {
     font-size: 12px Georgia, serif;
     color: darkgrey;
-    font-style: italic;
-    line-height: 1.5;
-    margin-top: 0; 
 }
