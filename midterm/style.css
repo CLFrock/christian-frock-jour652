@@ -3,7 +3,7 @@
     height: auto;
 }
 
-h1 {
+#headline {
     font: 36px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
