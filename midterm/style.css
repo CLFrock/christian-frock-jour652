@@ -4,7 +4,7 @@
 }
 
 #headline {
-    font: 36px strong Georgia, serif;
+    font: 24px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
@@ -42,7 +42,7 @@ body {
     align-items: center;
 }
 
-subhead {
+#subhead {
     font: 16px strong Georgia, serif;
     font-size: 18px;
     font-weight: 500;
