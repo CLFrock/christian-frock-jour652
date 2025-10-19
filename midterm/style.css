@@ -38,7 +38,7 @@ body {
 
 subhead {
     font: 16px strong Georgia, serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 1.5;
     margin-top: 0;   
@@ -61,7 +61,7 @@ img {
     border-style: none;
 }
 
-captions {
+#captions {
     font-size: 12px Georgia, serif;
     color: darkgrey;
     font-style: italic;
