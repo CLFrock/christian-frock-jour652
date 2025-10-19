@@ -4,7 +4,7 @@
 }
 
 h1 {
-    font: Verdana, sans-serif;
+    font: Garamond, serif;
     font-size: 24px;
     font-weight: 500;
     line-height: 1.2;
@@ -17,7 +17,7 @@ h1 {
 }
 
 #byline {
-    font-family: Verdana, sans-serif;
+    font-family: Garamond, serif;
     font-size: 18px;
     font-style: italic;
 }
@@ -30,15 +30,15 @@ body {
 }
 
 #subhead {
-    font: Verdana, sans-serif;
+    font: Garamond, serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.5;
     margin-top: 0;   
 }
 
 blockquote {
-    font: 44px strong Arial, san-serif;
+    font: 44px strong Garamond, serif;
     font-style: italic;
     margin-top: 15px;
     margin-bottom: 15px;
