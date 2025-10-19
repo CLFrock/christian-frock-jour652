@@ -4,28 +4,14 @@
 }
 
 #headline {
-    font: 24px strong Georgia, serif;
+    font: 20px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
 }
 
 #byline {
-    font-family: 18px Georgia, serif;
-    line-height: 1.2;
-    margin-top: 0;
-}
-
-h2{
-    font: 18px strong Georgia, serif;
-    font-weight: 400;
-    line-height: 1.2;
-    margin-top: 0;
-}
-
-h3{
-    font: 18px strong Georgia, serif;
-    font-weight: 400;
+    font-family: 16px Georgia, serif;
     line-height: 1.2;
     margin-top: 0;
 }
@@ -43,8 +29,7 @@ body {
 }
 
 #subhead {
-    font: 16px strong Georgia, serif;
-    font-size: 18px;
+    font: 18px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.5;
     margin-top: 0;   
