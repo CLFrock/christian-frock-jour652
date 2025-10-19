@@ -4,7 +4,7 @@
 }
 
 h1 {
-    font: Garamond, serif;
+    font: Georgia, serif;
     font-size: 24px;
     font-weight: 500;
     line-height: 1.2;
@@ -17,7 +17,7 @@ h1 {
 }
 
 #byline {
-    font-family: Garamond, serif;
+    font-family: Georgia, serif;
     font-size: 18px;
     font-style: italic;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 #subhead {
-    font: Garamond, serif;
+    font: Georgia, serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -38,7 +38,7 @@ body {
 }
 
 blockquote {
-    font: 44px strong Garamond, serif;
+    font: 44px strong Georgia, serif;
     font-style: italic;
     margin-top: 15px;
     margin-bottom: 15px;
