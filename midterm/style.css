@@ -4,8 +4,7 @@
 }
 
 h1 {
-    font: Georgia, serif;
-    font-size: 24px;
+    font: 24px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
@@ -17,8 +16,7 @@ h1 {
 }
 
 byline {
-    font-family: Georgia, serif;
-    font-size: 16px;
+    font: 16px, Georgia, serif;
 }
 
 body {
@@ -28,7 +26,7 @@ body {
     align-items: center;
 }
 
-#subhead {
+subhead {
     font: Georgia, serif;
     font-size: 16px;
     font-weight: 500;
@@ -53,7 +51,7 @@ img {
     border-style: none;
 }
 
-#captions {
+captions {
     font-size: 12px;
     color: darkgrey;
     line-height: 1.5;
