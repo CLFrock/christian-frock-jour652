@@ -10,7 +10,7 @@ h1 {
     margin-top: 0;
 }
 
-byline {
+#byline {
     font: 18px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
