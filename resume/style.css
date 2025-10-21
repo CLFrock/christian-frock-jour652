@@ -3,16 +3,11 @@
 /* body text */
 
 body {
-    font: Open Sans, Arial;
+    font: Arial;
     font-size: 1em;
     color: #444;   
 }
-#container {  
-    width: 100%; 
-    max-width: 1200;
-    margin: 0 auto; 
-    padding-bottom: 50px;    
-}
+
 #name {
     font-size: 3em;
     color: #33485e;
