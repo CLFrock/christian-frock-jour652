@@ -18,5 +18,30 @@ body {
 #title {
     font-size: 1.5em;
     color: #33485e;
-    text-transform: uppercase;      
+    text-transform: uppercase;
 }
+
+.h2 {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 400;
+    background-color: #33485e;
+    text-transform: uppercase;
+}
+
+.h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.h4 { 
+    font-size:1.5em;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.h5 {
+    font-size: 1em;
+    font-weight: 700;
+}
+
