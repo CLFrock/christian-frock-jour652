@@ -11,8 +11,7 @@ body {
     width: 100%;
     max-width: 1200px; 
     margin: 0 Auto; 
-    padding-bottom: 50px;
-    
+    padding-bottom: 50px;   
 }
 
 /* my name */
@@ -26,6 +25,7 @@ body {
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
+    border-bottom: 1px, solid #33485e;
 }
 
 /* my title */
