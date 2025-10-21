@@ -19,7 +19,7 @@ body {
 }
 
 /* my name */
-#name {
+.name {
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
@@ -38,7 +38,7 @@ body {
 }
 
 /* section titles */
-#sectionheader {
+.sectionheader {
     font-size: 1.5em;
     color: white;
     font-weight: 400;
