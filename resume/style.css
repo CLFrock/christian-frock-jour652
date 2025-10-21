@@ -2,11 +2,12 @@
 
 /* body text */
 
-
-#container {
+body {
     font: Open Sans, Arial;
     font-size: 1em;
-    color: #444;
+    color: #444;   
+}
+#container {  
     width: 100%; 
     max-width: 1200;
     margin: 0 auto; 
@@ -16,6 +17,6 @@
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
-    position: center; 
+    align-items: center;
     width: 60%
 }
