@@ -23,7 +23,7 @@ body {
 }
 
 /* section titles */
-.h2 {
+h2 {
     font-size: 1.5em;
     color: white;
     font-weight: 400;
@@ -41,7 +41,6 @@ body {
 .h4 { 
     font-size:1.5em;
     font-weight: 400;
-    font-style: italic;
 }
 
 /* job dates */
