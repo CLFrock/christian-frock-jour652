@@ -8,6 +8,11 @@ body {
 }
 
 /* my name */
+
+body {
+    font-family: "Open Sans", sans-serif, Arial;
+}
+
 #name {
     font-size: 3em;
     color: #33485e;
@@ -32,19 +37,19 @@ h2 {
 }
 
 /* job titles */
-.h3 {
+h3 {
     font-size: 1.5em;
     font-weight: 600;
 }
 
 /* job organizations */
-.h4 { 
+h4 { 
     font-size:1.5em;
     font-weight: 400;
 }
 
 /* job dates */
-.h5 {
+h5 {
     font-size: 1em;
     font-weight: 700;
 }
