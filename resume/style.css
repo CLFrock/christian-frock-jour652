@@ -7,6 +7,14 @@ body {
     color: #444;   
 }
 
+#container {
+    width: 100%;
+    max-width: 1200px; 
+    margin: 0 Auto; 
+    padding-bottom: 50px;
+    
+}
+
 /* my name */
 
 body {
