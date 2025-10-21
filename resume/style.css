@@ -3,7 +3,7 @@
 /* body text */
 
 
-.container {
+#container {
     font: Open Sans, Arial;
     font-size: 1em;
     color: #444;
@@ -12,7 +12,7 @@
     margin: 0 auto; 
     padding-bottom: 50px;    
 }
-.name {
+#name {
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
