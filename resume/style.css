@@ -1,13 +1,13 @@
 /* styles for my resume */
 
 /* body text */
-
 body {
     font: Open Sans, Arial;
     font-size: 1em;
     color: #444;   
 }
 
+/* my name */
 #name {
     font-size: 3em;
     color: #33485e;
@@ -15,12 +15,14 @@ body {
     align-items: center;
 }
 
+/* my title */
 #title {
     font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
 }
 
+/* section titles */
 .h2 {
     font-size: 1.5em;
     color: white;
@@ -29,22 +31,26 @@ body {
     text-transform: uppercase;
 }
 
+/* job titles */
 .h3 {
     font-size: 1.5em;
     font-weight: 600;
 }
 
+/* job organizations */
 .h4 { 
     font-size:1.5em;
     font-weight: 400;
     font-style: italic;
 }
 
+/* job dates */
 .h5 {
     font-size: 1em;
     font-weight: 700;
 }
 
+/* bulleted lists */
 ul {
     font-size: 1em;
 }
