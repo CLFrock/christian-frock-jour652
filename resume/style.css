@@ -25,6 +25,7 @@ body {
     font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
+    font-weight: strong;
 }
 
 /* section titles */
