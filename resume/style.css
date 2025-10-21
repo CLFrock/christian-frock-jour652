@@ -3,7 +3,7 @@
 /* body text */
 
 body {
-    font: Arial;
+    font: Open Sans, Arial;
     font-size: 1em;
     color: #444;   
 }
@@ -13,5 +13,10 @@ body {
     color: #33485e;
     text-transform: uppercase;
     align-items: center;
-    width: 60%
+}
+
+#title {
+    font-size: 1.5em;
+    color: #33485e;
+    text-transform: uppercase;      
 }
