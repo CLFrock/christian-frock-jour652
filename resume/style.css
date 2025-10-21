@@ -1,9 +1,21 @@
-#container {
+/* styles for my resume */
+
+/* body text */
+
+
+.container {
+    font: Open Sans, Arial;
+    font-size: 1em;
+    color: #444;
     width: 100%; 
     max-width: 1200;
     margin: 0 auto; 
     padding-bottom: 50px;    
 }
-#name {
+.name {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    position: center; 
     width: 60%
 }
