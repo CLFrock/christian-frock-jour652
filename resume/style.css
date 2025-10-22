@@ -50,7 +50,7 @@ a:visited {
     color: #6e38c7;
 }
 
-headshot {
+#headshot {
     width: 150px;
     height: 150px;
     object-fit:cover;
@@ -58,7 +58,7 @@ headshot {
     border:5px, solid #33485e;
 }
 
-.headshot-container {
+#headshot-container {
     text-align: center;
 }
 
@@ -131,3 +131,6 @@ ul {
     margin: 5, 0, 0, 0;
 }
 
+.do {
+    margin: 5, 0, 0, 0;
+}
