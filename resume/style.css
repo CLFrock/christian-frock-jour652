@@ -30,8 +30,19 @@ body {
     margin: 10, 0, 20, 0;
     text-align: center;
     display: inline;
-    padding: 0, 20, 0, 20;
-    
+    padding: 0, 20, 0, 20;   
+}
+
+.headshot {
+    width: 150px;
+    height: 150px;
+    object-fit:cover;
+    border-radius: 50%; 
+    border:5px, solid #33485e;
+}
+
+.headshot-container {
+    text-align: center;
 }
 
 h1 {
