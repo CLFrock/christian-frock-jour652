@@ -50,17 +50,15 @@ a:visited {
     color: #6e38c7;
 }
 
-headshot {
+#headshot {
     width: 150px;
     height: 150px;
     object-fit:cover;
     border-radius: 50%; 
     border:5px, solid #33485e;
-    display: block;
-    margin: 0 auto;
 }
 
-headshot-container {
+#headshot-container {
     text-align: center;
 }
 
