@@ -78,6 +78,10 @@ h5 {
     font-weight: 700;
 }
 
+.description {
+    margin: 10, 0, 0, 10;
+}
+
 /* bulleted lists */
 ul {
     font-size: 1em;
