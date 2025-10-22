@@ -33,6 +33,19 @@ body {
     padding: 0, 20, 0, 20;   
 }
 
+a:link {
+    font-weight: 600;
+    color: #0bc5f4;
+}
+
+a:hover {
+    color: #6e38c7;
+}
+
+a:visited {
+    color: #6e38c7;
+}
+
 #headshot {
     width: 150px;
     height: 150px;
