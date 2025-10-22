@@ -26,6 +26,14 @@ body {
     margin: 0 auto;   
 }
 
+.menu {
+    margin: 10, 0, 20, 0;
+    text-align: center;
+    display: inline;
+    padding: 0, 20, 0, 20;
+    
+}
+
 h1 {
     font-size: 3em;
     color: #33485e;
