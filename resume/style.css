@@ -33,7 +33,7 @@ body {
     padding: 0, 20, 0, 20;   
 }
 
-#headshot {
+.headshot {
     width: 150px;
     height: 150px;
     object-fit:cover;
