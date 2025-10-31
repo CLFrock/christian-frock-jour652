@@ -13,6 +13,10 @@ img {
     width: 100%;
 }
 
+.caption {
+    color: darkgray
+}
+
 blockquote {
     font: 44px strong Georgia, serif;
     margin-top: 15px;
