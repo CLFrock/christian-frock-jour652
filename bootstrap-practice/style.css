@@ -18,12 +18,11 @@ img {
 }
 
 blockquote {
-    font: 44px strong Georgia, serif;
+    font: 50px strong Georgia, serif;
     margin-top: 15px;
     margin-bottom: 15px;
-    color: #2a2a7b;
-    margin-left: 50px;
-    padding-left: 10px;    
+    color: #2a2a7b; 
+    width: 50%; margin: 0 auto;
 }
 
 h2 {
