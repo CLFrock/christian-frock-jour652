@@ -8,3 +8,11 @@ img {
     width: 100%;
 }
 
+blockquote {
+    font: 44px strong Arial, san-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #2a2a7b;
+    margin-left: 50px;
+    padding-left: 10px;
+    border-left: 4px solid #ccc;
