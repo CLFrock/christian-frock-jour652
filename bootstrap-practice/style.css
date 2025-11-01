@@ -38,3 +38,16 @@ hr {
   background-color: darkblue;
   border: 0 none;
 }
+
+a:link {
+    font-weight: 600;
+    color: #0bc5f4;
+}
+
+a:hover {
+    color: #6e38c7;
+}
+
+a:visited {
+    color: darkblue;
+}
