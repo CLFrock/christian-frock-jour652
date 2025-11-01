@@ -30,12 +30,11 @@ blockquote {
 }
 
 hr {
-  font-weight: 10px;
   width: 100%;
   height: 30px;
   margin-left: auto;
   margin-right: auto;
-  background-color: darkblue;
+  color: darkblue;
   border: 0 none;
 }
 
