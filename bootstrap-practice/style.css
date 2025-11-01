@@ -18,9 +18,9 @@ img {
 }
 
 blockquote {
-    font: 50px strong Georgia, serif;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    font: 40px strong Georgia, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
     color: #2a2a7b; 
     width: 50%; margin: 0 auto;
 }
