@@ -92,6 +92,7 @@ Write the following media queries at the very bottom of this stylesheet BELOW th
 /* ADD YOUR MEDIA QUERIES BELOW */
 
 @media screen and (min-width: 576px){
+<<<<<<< HEAD
     #colorbox {background: green;}
     #colorbox h2 {color: white;}
     #green {display: block;}  
@@ -115,6 +116,31 @@ Write the following media queries at the very bottom of this stylesheet BELOW th
     #color box h2 {color: black;}
     #orange {display: block;}
     #green, #blue, #purple {display: none;}
+=======
+    colorbox {background: green;}
+    h2 {color: white;}
+    green {display: block;}  
+}
+
+@media screen and (min-width: 768px) {
+    colorbox {background: blue;}
+    h2 {color: white;}
+    blue {display: block;}
+}
+
+@media screen and (min-width: 992px) {
+    colorbox {background: purple;}
+    h2 {color: white;}
+    purple {display: block;}
+    green, blue {display: none;}
+}
+
+@media screen and (min-width: 1200px) {
+    colorbox {background: orange;}
+    h2 {color: black;}
+    orange {display: block;}
+    green, blue, purple {display: none;}
+>>>>>>> 341e2f868fffe25455b485b4611f068944f261e8
 }
 
 
