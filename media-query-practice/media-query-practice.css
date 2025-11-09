@@ -92,29 +92,57 @@ Write the following media queries at the very bottom of this stylesheet BELOW th
 /* ADD YOUR MEDIA QUERIES BELOW */
 
 @media screen and (min-width: 576px){
-    #colorbox {background: green;}
-    #colorbox h2 {color: white;}
-    #green {display: block;}  
+    #colorbox {
+        background: green;
+    }
+    #colorbox h2 {
+        color: white;
+    }
+    #green {
+        display: block;
+    }  
 }
 
 @media screen and (min-width: 768px) {
-    #colorbox {background: blue;}
-    #colorbox h2 {color: white;}
-    #blue {display: block;}
+    #colorbox {
+        background: blue;
+    }
+    #colorbox h2 {
+        color: white;
+    }
+    #blue {
+        display: block;
+    }
 }
 
 @media screen and (min-width: 992px) {
-    #colorbox {background: purple;}
-    #colorbox h2 {color: white;}
-    #purple {display: block;}
-    #green, #blue {display: none;}
+    #colorbox {
+        background: purple;
+    }
+    #colorbox h2 {
+        color: white;
+    }
+    #purple {
+        display: block;
+    }
+    #green, #blue {
+        display: none;
+    }
 }
 
 @media screen and (min-width: 1200px) {
-    #colorbox {background: orange;}
-    #color box h2 {color: black;}
-    #orange {display: block;}
-    #green, #blue, #purple {display: none;}
+    #colorbox {
+        background: orange;
+    }
+    #color box h2 {
+        color: black;
+    }
+    #orange {
+        display: block;
+    }
+    #green, #blue, #purple {
+        display: none;
+    }
 }
 
 
