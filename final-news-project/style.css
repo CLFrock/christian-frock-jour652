@@ -4,14 +4,14 @@
 }
 
 #headline {
-    font: 20px strong Georgia, serif;
+    font: 16px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
 }
 
 #byline {
-    font: 16px strong Georgia, serif;
+    font: 12px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
