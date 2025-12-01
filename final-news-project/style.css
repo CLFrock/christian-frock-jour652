@@ -46,6 +46,10 @@ img {
     border-style: none;
 }
 
+#caption {
+    line-break: strict;
+}
+
 #footer {
     position: fixed;
     bottom: 0;
