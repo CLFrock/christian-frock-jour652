@@ -1,0 +1,30 @@
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+#headline {
+    font: 20px strong Georgia, serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+#byline {
+    font: 16px strong Georgia, serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+#content {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    justify-content: left;
+    align-items: center;
+}
