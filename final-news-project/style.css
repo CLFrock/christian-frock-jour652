@@ -48,6 +48,7 @@ img {
 
 #caption {
     line-height: .5;
+    line-break: strict;
 }
 
 #footer {
