@@ -3,17 +3,31 @@
     height: auto;
 }
 
-#headline {
+#topper {
     font: 16px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
 }
 
-#byline {
+#headline {
     font: 14px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
+    margin-top: 0;
+}
+
+#byline {
+    font: 12px strong Georgia, serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+#caption {
+    font: 10px strong Georgia, serif;
+    color: darkgrey;
+    line-height: 1;
     margin-top: 0;
 }
 
