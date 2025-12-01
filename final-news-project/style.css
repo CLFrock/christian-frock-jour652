@@ -11,7 +11,7 @@
 }
 
 #byline {
-    font: 12px strong Georgia, serif;
+    font: 14px strong Georgia, serif;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
@@ -24,7 +24,7 @@
 
 body {
     font-family: Verdana, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     justify-content: left;
     align-items: center;
 }
