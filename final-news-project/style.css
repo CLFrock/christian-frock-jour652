@@ -47,7 +47,7 @@ img {
 }
 
 #caption {
-    line-break: strict;
+    line-height: 1;
 }
 
 #footer {
