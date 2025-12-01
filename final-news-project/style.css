@@ -61,6 +61,11 @@ img {
     border-style: none;
 }
 
+#iframe-container-one {
+    border: 2px solid #ccc;
+    padding: 10px;   
+}
+
 #footer {
     position: fixed;
     bottom: 0;
