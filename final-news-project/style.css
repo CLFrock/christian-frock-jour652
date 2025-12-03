@@ -21,12 +21,6 @@ h1 {
     margin-bottom: 20px;
 }
 
-caption {
-    font: 10px strong Georgia, serif;
-    line-height: 1.2;
-    margin-top: 1;
-}
-
 #content {
     margin: 0 auto;
     max-width: 900px;
