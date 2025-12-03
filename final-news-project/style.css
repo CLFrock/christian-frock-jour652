@@ -5,6 +5,7 @@
 
 #topper {
     font: 16px strong Georgia, serif;
+    color: lightgray;
     font-weight: 500;
     line-height: 1.2;
     margin-top: 0;
@@ -13,11 +14,11 @@
 }
 
 #headline {
-    font: 12px strong Georgia, serif;
+    font: 14px strong Georgia, serif;
     font-weight: 500;
     line-height: 1;
     margin-top: 0;
-    color: lightgray
+    
 }
 
 #byline {
