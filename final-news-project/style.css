@@ -22,9 +22,9 @@ h1 {
 }
 
 #byline {
-    font: 12px strong Georgia, serif;
+    font: 14px Georgia, serif;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1;
     margin-top: 0;
 }
 
