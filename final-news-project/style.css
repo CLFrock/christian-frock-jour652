@@ -8,6 +8,10 @@ h1 {
     font: bold
 }
 
+h2 {
+    color:lightgray;
+}
+
 hr.thick-line {
     height: 5px;
     background-color: lightgray;
