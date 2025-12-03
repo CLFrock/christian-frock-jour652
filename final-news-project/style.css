@@ -3,14 +3,8 @@
     height: auto;
 }
 
-h1 {
-    font: 24px strong italic Georgia serif;
-    color: lightgray;
-    font-weight: 500;
-    line-height: 1.2;
-    margin-top: 0;
-    justify-content: center;
-    align-content: center;
+h2 {
+    color:lightgray;
 }
 
 .light-gray-bar {
