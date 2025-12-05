@@ -58,7 +58,7 @@ img {
 
 .iframe-container {
     border: 3px solid lightgray;
-    padding: 20px; 
+    width: 100%
 }
 
 
