@@ -45,7 +45,7 @@ blockquote {
     margin-top: 15px;
     margin-bottom: 15px;
     color:darkgray;
-    justify-content: center;
+     text-align: justify; 
 }
 
 a {
