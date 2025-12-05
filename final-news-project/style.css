@@ -29,6 +29,10 @@ hr {
     border: none;
 }
 
+h2 {
+    color: lightgray;
+}
+
 #content {
     margin: 0 auto;
     max-width: 900px;
