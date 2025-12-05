@@ -56,7 +56,7 @@ img {
 }
 
 .iframe-container {
-    border: 3px solid lightgray;
+    border: 3px lightgray;
     padding: 20px; 
     margin: 20px, 20px, 20px, 20px;
 }
