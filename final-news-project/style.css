@@ -49,6 +49,10 @@ blockquote {
     justify-content: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 img {
     width: 900px;
     vertical-align: center;
