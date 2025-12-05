@@ -15,7 +15,7 @@
   font-style: italic;
 }
 
-h2 {
+h1 {
     color:lightgray;
     font-family: "DM Serif Display", serif;
     font-weight: 400;
@@ -62,12 +62,4 @@ img {
     border: 3px solid lightgray;
     padding: 20px; 
     margin: 20px, 20px, 20px, 20px;
-}
-
-#footer {
-    position: fixed;
-    bottom: 0;
-    background-color: black;
-    color: white;
-    text-align: center;
 }
