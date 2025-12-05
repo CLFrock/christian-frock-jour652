@@ -3,10 +3,6 @@
     height: auto;
 }
 
-h1 {
-    color:lightgray;
-    font: bold
-}
 
 h2 {
     color:lightgray;
@@ -49,7 +45,8 @@ img {
 
 .iframe-container {
     border: 1px solid #ccc;
-    padding: 20px;   
+    padding: 20px; 
+    margin: 20, 20, 20, 20;
 }
 
 #footer {
