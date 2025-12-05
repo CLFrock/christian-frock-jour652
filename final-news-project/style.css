@@ -8,8 +8,8 @@ h2 {
     color:lightgray;
 }
 
-hr.thick-line {
-    height: 8px;
+hr {
+    height: 5px;
     background-color: lightgray;
     border: none;
 }
