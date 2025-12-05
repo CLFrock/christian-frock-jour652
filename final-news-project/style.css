@@ -41,14 +41,12 @@ body {
 }
 
 blockquote {
-    font: 44px strong Georgia, serif;
+    font: 44px "DM Serif Display", serif;
     font-style: italic;
     margin-top: 15px;
     margin-bottom: 15px;
     color:darkgray;
-    margin-left: 50px;
-    padding-left: 10px;
-    border-left: 4px solid #ccc;
+    justify-content: center;
 }
 
 img {
