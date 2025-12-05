@@ -40,6 +40,7 @@ body {
 
 blockquote {
     font: 44px "DM Serif Display", serif;
+    margin: auto;
     padding: 15px, 20px, 15px, 20px;
     color:#71797E;
     text-align: center; 
