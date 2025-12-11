@@ -62,7 +62,7 @@ img {
     padding: 10px;
 }
 
-.footer-content {
+#footer-content {
     background-image: linear-gradient(to right, black , gray);
     color: white;
     padding: 20px 0 20px 50px;
@@ -71,14 +71,6 @@ img {
 
 #footer-text {
     float: left;
-}
-
-#footer-icon-img {
-    max-width:80px;
-    height: auto;
-    margin-bottom: 10px;
-    float: right;
-    display: block;
 }
 
 @media screen and (max-width: 563px) {
