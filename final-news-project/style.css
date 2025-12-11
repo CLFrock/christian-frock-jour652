@@ -62,7 +62,7 @@ img {
     padding: 10px;
 }
 
-#footer {
+footer-content {
     background-image: linear-gradient(to right, black , gray);
     color: white;
     padding: 20px 0 20px 50px;
@@ -73,8 +73,10 @@ img {
     float: left;
 }
 
-#footer-icon img {
-    width:80px;
+#footer-icon-img {
+    max-width:80px;
+    height: auto;
+    margin-bottom: 10px;
     float: right;
     display: block;
 }
