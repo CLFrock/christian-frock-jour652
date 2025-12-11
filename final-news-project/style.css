@@ -62,7 +62,7 @@ img {
     padding: 10px;
 }
 
-.footer-content {
+#footer-content {
     background-image: linear-gradient(to right, black , gray);
     color: white;
     padding: 20px 0 20px 50px;
